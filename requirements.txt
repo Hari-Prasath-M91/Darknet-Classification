@@ -1,0 +1,8 @@
+scikit-learn-intelex
+pandas
+matplotlib
+seaborn
+imblearn
+xgboost
+lightgbm
+catboost
